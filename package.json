@@ -1,0 +1,7 @@
+{
+  "name": "frontend",
+  "version": "16.0.1",
+  "dependencies": {
+    "yoo-styles": "6.0.326"
+  }
+}
