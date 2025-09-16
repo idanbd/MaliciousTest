@@ -1,6 +1,7 @@
 {
-  "name": "frontend",
-  "version": "16.0.1",
+  "name": "yoo-styles-test",
+  "version": "1.0.0",
+  "private": true,
   "dependencies": {
     "yoo-styles": "6.0.326"
   }
